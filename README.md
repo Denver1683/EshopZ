@@ -48,7 +48,7 @@ The system ensures **real-time data synchronization** using Firebase, allowing s
 ### **Installation Steps**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/eshopz.git
+   git clone https://github.com/Denver1683/EshopZ.git
    ```
 2. Open the project in **Android Studio**.
 3. Configure Firebase:
