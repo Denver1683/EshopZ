@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EshopZ</string>
+    <string name="title_activity_seller_page">Seller_Page</string>
+    <string name="title_activity_home_page">HomePage</string>
+</resources>
