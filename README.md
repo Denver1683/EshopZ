@@ -77,14 +77,12 @@ The system ensures **real-time data synchronization** using Firebase, allowing s
 ### **Automated Firebase Testing**
 - Firebase Robo Testing was conducted to ensure stability.
 - Automated test cases cover **authentication, database updates, and UI navigation**.
-- Due to virtual testing limitations, image uploads might fail but function correctly on a real device.
 
-Test Results: 📌 Available at [Test Report](https://youtu.be/JqokOAClPH0)
-
+Test Results: PASS
 ---
 
 ## 📌 Disclaimer
-**This project is for educational purposes only** and is not intended for commercial use. The author does not take responsibility for any misuse of the application.
+**This project is for educational purposes and personal portfolio only** and is not intended for commercial use. The author does not take responsibility for any misuse of the application.
 
 For inquiries or contributions, feel free to submit an issue or pull request on GitHub. 🚀
 
